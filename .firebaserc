@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "domsshop"
+  },
+  "targets": {
+    "domsshop": {
+      "hosting": {
+        "angular.io-example": [
+          "domsshop"
+        ]
+      }
+    }
   }
 }
